@@ -54,7 +54,7 @@ Make Directory (mkdir) - creation directory
 
 touch <file name> - makes a new file
   
-MV
+MV -Move file
 
 CP - copy file
 
