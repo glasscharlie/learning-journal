@@ -43,6 +43,20 @@ Print Working Director (pwd) - shows present working directory
 List (ls) - shows current location
 
 Path - get to a specific file or directory in the location
+    Abosulute - specify location in relation to root directory
+    Relative - specify location in relation to where we are now
+    
+Change Directory (cd) 
+> cd.. (up a level
+> cd../.. (up two levels)
+
+Make Directory (mkdir) - creation directory
+
+touch <file name> - makes a new file
+  
+MV
+
+CP - copy file
 
 
 
