@@ -8,6 +8,8 @@ Hello, thanks for coming to my webpage. My name is Charlie Glass, and I am a stu
 ### Growth Mindset
 
 
+
+
 #### What is growth mindset?
 Growth mindset is knowing that people are always capable of further learning, no matter what they have learned in the past or how fast we are able to understand things.
 
