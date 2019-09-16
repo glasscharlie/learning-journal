@@ -1,7 +1,12 @@
 # Charlie Glass's Learning Journal
 
+
 ## About me
 Hello, thanks for coming to my webpage. My name is Charlie Glass, and I am a student at Code Fellows, an in person coding academy. I am 24 years old, have a transfer degree from bellevue college, and have years of customer service under my belt in the retail industry. 
+
+
+## Growth Mindset
+
 
 ### What is growth mindset?
 Growth mindset is knowing that people are always capable of further learning, no matter what they have learned in the past or how fast we are able to understand things.
