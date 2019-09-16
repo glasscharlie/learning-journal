@@ -2,7 +2,7 @@
 
 
 ### About me
-Hello, thanks for coming to my webpage. My name is Charlie Glass, and I am a student at [Code Fellows](https://www.codefellows.org), an in person ![coding academy](https://github.com/glasscharlie/learning-journal/issues/1#issue-494209382). I am 24 years old, have a transfer degree from bellevue college, and have years of customer service under my belt in the retail industry. 
+Hello, thanks for coming to my webpage. My name is Charlie Glass, and I am a student at [Code Fellows](https://www.codefellows.org), an in person. I am 24 years old, have a transfer degree from bellevue college, and have years of customer service under my belt in the retail industry. 
 
 https://glasscharlie.github.io/learning-journal/
 
