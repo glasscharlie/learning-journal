@@ -7,7 +7,9 @@ Growth mindset is knowing that people are always capable of further learning, no
 
 - Put everything into a positive connotation
     >~~Im bad at coding~~ I'm still learning how to code
+    
     >~~I don't care about this~~ This is not a priority for me right now
+    
     >~~I would never do that~~ It's hard for me to imagine doing that at the moment
     
 - Try different learning tactics, everybody learns differently and at their own pace
