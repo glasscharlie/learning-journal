@@ -8,7 +8,7 @@ https://glasscharlie.github.io/learning-journal/
 
 
 ### Growth Mindset
-
+/
 
 
 
