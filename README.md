@@ -6,6 +6,7 @@ Hello, thanks for coming to my webpage. My name is Charlie Glass, and I am a stu
 https://glasscharlie.github.io/learning-journal/
 
 
+
 ### Growth Mindset
 
 
