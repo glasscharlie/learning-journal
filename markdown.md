@@ -22,19 +22,29 @@ A variety of themes
 A decent selection of extensions
 >As you learn more, you will want more features.
 
+## Command Line (Terminal)
 
-### Options
-Notepad++
+### What are they?
+Text based interface to the system
+Enter Commands by typing them and it gives feedback
 
-TextWrangler/BB Edit
+### The Shell
+Part of the operating system that defines how the terminal will behave or look
 
-Visual Studio Code
+Most common is Born Again Shell (bash)
 
-Atom
+Can use *echo* to display a sytem variable with your current shell
 
-Brackets
+Up and down arrows traverse your history
 
-Sublime Text
+### Commands
+Print Working Director (pwd) - shows present working directory
+
+List (ls) - shows current location
+
+Path - get to a specific file or directory in the location
+
+
 
 
 
