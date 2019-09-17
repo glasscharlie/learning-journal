@@ -56,7 +56,7 @@ touch <file name> - makes a new file
   
 MV -Move file
 
-CP - copy file
+'CP' - copy file
 
 
 
