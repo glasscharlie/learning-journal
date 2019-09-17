@@ -58,6 +58,8 @@ MV -Move file
 
 CP - copy file
 
+RM -r = remove file
+
 
 
 
