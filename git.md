@@ -44,7 +44,8 @@ Known as a stupid content tracker, used to share code and colabboration Distribu
 
 - Clone your repo --> git clone github.url.git
 - Add stuff (files/code)
-- Cave your added stuff ---> git add filename
-- Lock our changes ---> git commit -m "some message"      git commit - a = save all changes
+- Save your added stuff ---> git add filename
+- Lock our changes ---> git commit -m "some message"      
+- git commit - a = save all changes
 - Get changes to github ---> get push origin master
 
