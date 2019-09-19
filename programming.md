@@ -1,4 +1,4 @@
-#Programing Notes
+# Programing Notes
 
 ### How javaScript makes web pages more interactive
 - Access Content
@@ -54,6 +54,8 @@
 > Decrement (--)
 
 > Modulus (%)
+
+> Sumtotal (+=)
 
 - String Operators - there is only one, the + sign used to join strings together
 
