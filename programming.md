@@ -1,4 +1,4 @@
-#Programing Notes
+# Programing Notes
 
 ### How javaScript makes web pages more interactive
 - Access Content
