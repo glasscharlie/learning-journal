@@ -55,6 +55,8 @@
 
 > Modulus (%)
 
+> Sumtotal (+=)
+
 - String Operators - there is only one, the + sign used to join strings together
 
 - Function - lets you group a series of statemenets together to perform a specific task
