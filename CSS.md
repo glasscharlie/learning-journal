@@ -79,3 +79,12 @@
 > Saturation - Amount of grey in a color, represented by a percentage
 
 > Lightness - Amount of white or black in a color. 0% is white, 100% is black
+
+
+### Selectors
+
+- .class	.intro	Selects all elements with class="intro"
+- #id	#firstname	Selects the element with id="firstname"
+- *	*	Selects all elements
+- element	p	Selects all <p> elements
+- element,element,..	div, p	Selects all <div> elements and all <p> elements
