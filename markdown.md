@@ -37,6 +37,8 @@ Can use *echo* to display a sytem variable with your current shell
 
 Up and down arrows traverse your history
 
+**test**
+
 ### Commands
 Print Working Director (pwd) - shows present working directory
 
